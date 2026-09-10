@@ -1,0 +1,10 @@
+in VS code Terminal
+set "PATH=%PATH%;C:\Users\user\AppData\Local\Programs\Ollama"
+
+Install ollama from google
+ollama ls
+gives list of llms in ollama
+
+if required llms not found in ollam pull it like below 
+ollama pull gemma3
+ollama pull deepseek-r1:latest

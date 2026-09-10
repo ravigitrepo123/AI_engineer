@@ -1,0 +1,70 @@
+^^^^ SEABORN BOOTCAMP -->
+^^^^ YouTube Live link --> 
+https://www.youtube.com/watch?v=JhfTZ1QWN6A
+
+https://www.youtube.com/watch?v=JhfTZ1QWN6A
+
+^^^^^^ 
+My introduction ---> 
+---
+https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
+
+18yr experience ( Genpact, Valuelab, kiabi, mphasis, Kroger it solu
+
+10yr experience ( training program -- NareshIT, greatlearn, iiit 
+
+====== introduce we are completed 
+
+who can eligible for this workshop -- everyone is elligble 
+=== 
+
+LETS DO THIS PRACTICLE NOW --->
+---
+IDE (SOFTWARE) -->
+
+1- VS-CODE (student who has vs code please open that )
+2- Jupyter notebook (please open)
+
+student who know how to work on vs code or jupyter please open
+
+3- student who dont know please follow this guideline
+
+	open google
+	google colab
+	click the first link 
+	open a new notebook
+	got the prompt 
+
+
+1.scatterplot
+2.lineplot 
+3.bar plot
+4.box plot
+5.violin plot
+6.count plot
+7.regression
+8.histogram
+9.pairplot
+10.catplot
+11.jointplot
+12.facetgrid
+13.stripplot
+14.kde plot 
+
+=== we plot all the graphics using seborn -- statical visualization library
+
+=======
+
+
+
+
+
+
+
+student who had any query ? we will speak ( mr
+
+my voice is louder and clear , am i correct?
+
+student who had issue please check your mic -- understand 
+
+

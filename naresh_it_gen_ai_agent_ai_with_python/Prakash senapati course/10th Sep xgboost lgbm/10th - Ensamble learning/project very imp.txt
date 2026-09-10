@@ -1,0 +1,15 @@
+https://www.kaggle.com/code/prashant111/knn-classifier-tutorial
+
+https://www.kaggle.com/code/prashant111/naive-bayes-classifier-in-python
+
+https://www.kaggle.com/code/prashant111/xgboost-k-fold-cv-feature-importance 
+
+https://www.kaggle.com/code/prashant111/lightgbm-classifier-in-python
+
+https://www.kaggle.com/code/prashant111/decision-tree-classifier-tutorial
+
+https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning
+
+https://www.kaggle.com/code/prashant111/bagging-vs-boosting
+
+

@@ -1,0 +1,80 @@
+=========ANACONDA INSTALLATION ===============
+---
+STEPS TO CREATE DL FRAME WORK USING ANACONDA'
+---
+1- anaconda prompt -- base (root)
+		conda create -n tensorflow_env tensorflow
+2- activate tensorflow_env
+3- open anaconda navigator -- base(root) - tensorflow_env
+4- navigator page -- setting on jupyter - install specific version -- install 
+5- navigator page - setting on spyder - insatll specific version 
+6- start - anaconda folder -- 2 jupyter & 2 spyder 
+	1 jupyter -- dl & 1 spyder for dl 
+7- now we need to install all software under tensorflow 
+
+8 - pip install keras==3.6.0 
+	pip show keras 
+	import keras
+	print(keras.__version__)
+9- pip show tensorflow 
+	tensorflow.__version__ 
+	 pip install --upgrade tensorflow
+10- pip install torch  
+		pip show torch 
+11- pip install opencv-python | (base & tensorflow_env)
+12- pip install ultralytics | (base & tensorflow_env)
+13- pip install mediapipe | (base & tensorflow_env)
+14- pip install langchain || (base & tensorflow_env)
+15- pip install scikit-learn 
+16- pip install nltk
+17- pip install spacy
+18- pip install numpy 
+19- pip install panda
+20- pip install seaborn 
+21- pip install scipy
+22- pip install gensim 
+===== successfully we install all our library ===== 
+
+2.
+===DEEP LEARNING LIBRARY IN VS CODE ====
+
+	FOR EVERY PROJECT TRY TO CREATE ENVIRONMENT VARIABLE 
+steps to create environment variable in vs code 
+========
+1- go to the folder location where you wanted to activate my env
+	Activate your environment
+		python -m venv myenv
+		\myenv\Scripts\activate 
+2- 		
+ENVIRONMENT VARIABLE IN VS CODE -->
+* Go to path location by using ==> (cd path/to/your/project)
+* Activate the Virtual Environment ==> (.\venv\Scripts\activate)
+
+3- deactivate myenv 
+
+*****************************
+3- STEPS TO INSTALL DL IN PYCHARM 
+====================
+terminal & install all required library
+
+
+DEEP LEARNING, COMPUTER VISON, INSTLLED TODAY 
+========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
