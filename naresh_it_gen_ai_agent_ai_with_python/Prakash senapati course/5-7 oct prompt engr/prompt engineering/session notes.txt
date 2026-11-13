@@ -1,0 +1,299 @@
+====
+Welcome to PROMPT ENGINEERING workshop -->
+====
+https://www.youtube.com/watch?v=2n-RIgSNnwQ
+====
+
+1- prompt engineering session is going to 
+		theory -- CONCEPT OF PE 
+		prcticle -- APPLY IN PRACTICLE 
+
+2- PRAKASH SENAPATI 
+	LINKEDIN ( K.PRAKASH SENPATI)
+	NIT - 4YR
+		https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
+
+3- THEORY IS VERY IMPORTATN
+	1VIDEO MAKES YOU EXPERT about PE 
+=================
+4- WHAT IS PROMPT ENGINEERING ?
+	- new domain
+	- most of them know about AI earlier
+	- chatgpt many user used gpt every min 
+	- entire world used gpt everyone started reserch how chatgpt 
+	- Back bone of chatgpt is GENERATIVE AI 
+frontend - chatgpt ( user enter any question prompt)
+backend model -- llm model 
+
+ gen ai has mainly 2 aspect 
+	Training data -  OPEN AI TRAIN THE data(API KEY)
+		clean, no noise, no hallucinat, bias, politcs
+	Input to the input -- user can do 
+
+open ai api key -- not a free version it is paid version 
+	user enter any question to the prompt
+		chargable ($5)
+	every token open ai charge some amount
+	
+most of the time user must need to right valid prompt to 
+generate accuracte output 
+
+	llm model train from internet, books, web, xml, article, research, github docum,etc
+ no user can train the way open ai api does 
+ 
+ training part -- we dont have
+ but right promput -- user must do this 
+ 
+ ask a question such way less token model should generate appropriate answer.
+=====================
+2- why to learn prompt engineer ?
+
+	- evolving domain -- 1yr back 
+	- brand new domain 
+	- 5 days - gpt conusume 1 million user 
+	
+	Job opening --> 2025 (good growth)
+	
+	Every company wanted to hire at 2-3 dev for research
+	looking for fresher intern in PE job role
+
+	not required any experience
+	apply prompt engineer 
+	carrer gap -- some experience 
+====================
+3- LLM MODEL SETTING
+	 CLICK TO IT -- PLATFORM.OPENAI.COM
+     LOGIN TO IT -- PLAYGROUND 
+
+- MODEL -- USER SELCT MODEL BASED ON USER REQUIRE1- 
+	3.5 MODEL | 4 MODEL
+***	
+-TEMP -- (0 - 2)
+	Temperature will decide how model the more creative.
+	generate accurate rate
+ if randomness is high -- error also higg 
+	midius -- midium
+ 
+ should be low -- so randomess would be les produce accuracy text conten 
+***
+-top-p -- 
+ 
+temp + top- p 
+low temp + low p value -- accura text response 
+***
+---
+coherent response -->
+---
+A coherent piece of text or speech effectively communicates its message in a way that is
+easy for others to understand.
+***
+max-length -- code has to genen 1000 
+***
+stop sequence -- controlss output 
+help to stop irrelanvant mesage for query which asked by user
+***
+frequency penaly & presence penalty -->
+***
+ main use of fp -- reduce repition
+ avoid repeating words 
+
+range fp - 0 to 2 
+	0 - model can produce repeat words
+	> 0 -- higher penaly not produce repeat words
+
+presence penalty -- generate text 
+f 0 means there is no penalty for using previously mentioned words
+
+====================	
+4- prompt elements -->
+
+	instruction - write the summary of algortihm 
+	context -- in the contex of climate change
+	example 
+	tone & style - 
+	format- list of items, write the paragraph,use bullet point 
+	length - in 100 words, 1000 words
+	constraint -- these above prompt element would help 
+		any user to produce coherent respone from the model 
+====================
+5- prompt engineering technique (shot tecnique in prompt 
+
+zero shot learning  -- never seen the data ( existing knowledge ) 
+one shot learning -- you give only 1 exampl produce the o/p
+few shot learning -- you not 1 but you give multiple picture 
+
+project if you have multiple object -- use few shot leanring
+project one object -- use one shot learning 
+project dont object -- zero shot learning 
+
+===================
+6- COT PROMPT ( CHAIN OF THOUGHTS)
+
+many problem 
+	 to get solution of the problem -- shall we use 
+		different way different way to solve the problem
+chain of thought
+		problem -- step by step approach 
+			
+ brak down all tokeens from the query 
+ every token need to under provide accurac answer
+ 
+
+0 shot cot -- model produce responce without example less clarity 
+1 shot cot -- Provides a single guiding example for better clarity and coherence.
+few shot cot - Best for complex tasks, offering multiple examples to enhance
+understanding and accuracy.
+
+==========================
+7- self consistency in prompt engineering -->
+
+user ask same question to the promput multiple time
+	if model produce multiple respone -- not good model 
+--	
+how we overcome this issue --
+--	
+	clarity promput
+	fine tune 
+	multiple test
+	guide thr promput with few shot & 1 shot 
+
+==========================
+8- OUT OF DATE LEANRING IN PROMPT ENGINEERING 
+
+	GPT 3 --> 31st dec 23 ( future data not trained )
+	GPT 3.5 turbo --> 31st dec 24
+	GPT 4
+	GEMINI PRO
+	GEMINI FALSH 
+
+fixed knowledge cutof
+static -- fixed ( dynammic - changes)
+Once trained, the model doesn't automatically update its
+knowledge. 
+
+you need to fine tune with new data -
+	every open ai  -- new model 
+		gemin - 
+		meta 
+
+llm models not uptodate -- give you misinformation 
+
+mitigation outdated response 
+
+strategies to addre out of data 
+	as of 2021 -- generate only 21 yr data
+		never get misinformation from the prompt 
+	
+regular updates -- 
+cross verification -- 
+
+out-of-date learning is crucial in prompt engineering. 
+==================
+9- ROLE PLAYING IN PROMPT ENGINEER -->
+
+	HOW TO ENTER EFFECTIIVE PROMPUT
+		YOU CAN ACT AS INTERVI
+
+how user write the query use gpt as you friend
+=================
+10- RAG in prompt engineering 
+
+	retreival 
+	augument 
+	generation 
+rag always intergrate to the vector datase
+
+	complany has few doc -- doc will stoe in vector 
+				from ( embedding concept)
+	user -- query -- ask question about pdf
+		user question also store in vector form
+	lllm model retreve & generate semanitic information of the query
+
+model not produce accuracy information -- fine tune it 
+
+==============
+11- REACT IN PROMPT ENGINEERING -->
+	REASON + ACT 
+
+The REACT framework in prompt engineering emphasizes a structured approach to
+interactive scenarios, combining reasoning, engagement, and actionable insights. 
+
+================
+12- DSP 
+=========
+THEORY WE ARE COMPLETED 
+========
+OPEN AI API KEY 
+
+GEMININ & META OPEN AI IS VERY POWER LLM 
+
+	OPEN AI IS NOT FREE 
+WE NEED -- 5$  
+========
+PROMPT ENGINEERING PRACTICLE -->
+---	
+1 - PLATFORM.OPENAI.COM
+2- LOGIN TO OPEN AI USING GMAIL ID 
+3- YOUR PROFILE - CREATE NEW API KEY - IT WILL NOT WORK 
+	OPEN AI STOP PROVIDIEN FREE ACCESS FROM MAY 2023 
+4- BILLING - PAYMENT METHODS - SAFE AMOUNT 
+	INTERNATION DEBIT CARD ( DO NOT GIVE CREDIT CARD)
+5- API KEY - NEW SECRET KEY -- COPY -- PAST & SAVE THE KEY FOR ANY PRACTICLE IN OPENAI 
+6- DASHBOARD - USAGE - CHECK YOU HOW MUCH AMOUTN YOU HAVE IN YOU OPEN AI BALANCE
+7- how to login and get paid api key if you are new user
+=====
+
+comment on these type video so that 
+share to this video 
+
+new student please reach out to the admin
+
+i will share document my admin -- he can share to your gmail id. 
+
+my student i will share in the class.
+
+ 
+
+
+	
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+	 
+	
+ 
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+======
+youtube live -- https://www.youtube.com/watch?v=2n-RIgSNnwQ
+github -- https://github.com/kodigitaccount/PROMPT-ENGINEER
+======
